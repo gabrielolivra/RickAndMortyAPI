@@ -78,4 +78,8 @@ ul img{
         width: 80%;;
     }
     .armazenamento{width: 80%;}
+
+    section p{
+        text-align: center;
+    }
 }
