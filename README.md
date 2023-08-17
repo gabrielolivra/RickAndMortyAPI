@@ -4,4 +4,4 @@ A Rick e Morty API é uma API pública que fornece acesso aos dados do programa 
 <h1>Usando a API</h1>
 A API é acessível por meio de chamadas de API HTTP. Cada chamada de API requer um cabeçalho de autenticação com a chave pública e a chave secreta que você recebeu ao se inscrever na API.
 
-<img src='gabrielolivra/RickAndMortyAPI/Introdução ao desenvolvimento web com JavaScript/assets/img/Captura de tela 2023-08-17 165558.png'>
+<img src='Introdução ao desenvolvimento web com JavaScript/assets/img/Captura de tela 2023-08-17 165558.png'>
